@@ -57,6 +57,8 @@
  
  https://github.com/Nyr/openvpn-install
  
+ https://www.youtube.com/watch?v=qM9twnOYocA
+ 
  $ wget https://git.io/vpn -O openvpn-install.sh && bash openvpn-install.sh
 
  
