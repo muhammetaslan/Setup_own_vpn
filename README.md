@@ -53,9 +53,12 @@
  https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-18-04#step-3-%E2%80%94-creating-the-server-certificate,-key,-and-encryption-files
  
  
+ ------------------------------------------------------------------------------------------------------------------------ 
  
+ https://github.com/Nyr/openvpn-install
  
- 
+ $ wget https://git.io/vpn -O openvpn-install.sh && bash openvpn-install.sh
+
  
  
  
