@@ -5,6 +5,7 @@
  -> Generating public/private rsa key pair.
  
  https://www.digitalocean.com/docs/droplets/how-to/add-ssh-keys/
+ 
  https://www.digitalocean.com/docs/droplets/how-to/add-ssh-keys/create-with-openssh/
  
  $ ssh-keygen
@@ -16,6 +17,7 @@
  -> Upload your public password (.pub) file in your account 
  
  https://www.digitalocean.com/docs/droplets/how-to/add-ssh-keys/
+ 
  https://www.digitalocean.com/docs/droplets/how-to/add-ssh-keys/to-account/
  
  ------------------------------------------------------------------------------------------------------------------------ 
